@@ -1,3 +1,6 @@
 [submodule "Prueba-tecnica"]
 	path = Prueba-tecnica
 	url = https://github.com/amadoxxo/Prueba-tecnica.git
+[submodule "Prueba-tecnica-angular-laravel"]
+	path = Prueba-tecnica-angular-laravel
+	url = https://github.com/amadoxxo/Prueba-tecnica-angular-laravel.git
